@@ -1,0 +1,17 @@
+type the following 
+cd build
+cmake ..
+make
+./statistical_removal
+
+-----------------------------------------
+
+for installing pcl in ubutnu follow the below commands
+
+sudo add-apt-repository ppa:v-launchpad-jochen-sprickerhof-de/pcl
+sudo apt-get update
+sudo apt-get install libpcl-all
+
+------------------------------------
+
+for any changes please send me the pull request
