@@ -1,0 +1,4 @@
+find the inter-distance measure 
+  1. distance bw each point
+  2. Normalize the distance 
+  3. 
